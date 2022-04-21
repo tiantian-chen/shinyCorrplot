@@ -1,0 +1,7 @@
+library(shiny)
+library(corrplot)
+library(shinyBS)
+library(RColorBrewer)
+library(shinythemes)
+library(shinyWidgets)
+library(shinyjqui)
